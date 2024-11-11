@@ -1,5 +1,5 @@
 {
-    "name": "avzer/identicon",
+    "name": "veryktech/identicon",
     "type": "library",
     "description": "Create awesome unique avatar.",
     "keywords": [
@@ -7,7 +7,7 @@
         "identicon",
         "image"
     ],
-    "homepage": "https://github.com/avzer/identicon",
+    "homepage": "https://github.com/veryktech/identicon",
     "license": "MIT",
     "require": {
         "php": ">=5.5.0"
